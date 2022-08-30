@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    /* background-color: aqua; */
+}
+
+
+#iform{
+    /* width: 1000px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(3, 3, 3);
+}
+
+h2{
+    color: #f4ebebf2;
+    text-align: center;
+    margin: 0;
+    padding: 0 0 30px 0;
+}
+
+.form{
+    /* background-color: #c8c9bf38; */
+    width: 360px;
+    padding: 4rem 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 30px 35px rgba(232, 237, 241, 0.2);
+}
+
+.cl{
+    color: white;
+}
+
+.btn{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
