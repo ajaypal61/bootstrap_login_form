@@ -10,9 +10,11 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* background-color: rgb(3, 3, 3); */
 }
 
+.form{
+    width: 40rem;
+}
 
 
 
